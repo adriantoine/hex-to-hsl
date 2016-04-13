@@ -1,6 +1,8 @@
 
 # HEX to HSL
 
+[![Build Status](https://travis-ci.org/adriantoine/hex-to-hsl.svg?branch=master)](https://travis-ci.org/adriantoine/hex-to-hsl)
+
 Convert a HEX color string to an HSL value:
 
 ```js
