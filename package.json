@@ -1,6 +1,6 @@
 {
   "name": "hex-to-hsl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a hex color string to an hsl array",
   "main": "index.js",
   "scripts": {
