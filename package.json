@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:adriantoine/hex-to-hsl.git"
+    "url": "git+ssh://git@github.com/adriantoine/hex-to-hsl.git"
   },
   "author": "Adrien Antoine <adriantoine@gmail.com> (http://adriantoine.com/)",
   "bugs": {
@@ -31,5 +31,8 @@
   "dependencies": {
     "hex-to-rgb": "^1.0.1",
     "rgb-to-hsl": "0.0.2"
+  },
+  "directories": {
+    "test": "test"
   }
 }
