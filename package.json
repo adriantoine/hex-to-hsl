@@ -25,7 +25,7 @@
   "homepage": "https://github.com/adriantoine/hex-to-hsl#readme",
   "license": "ISC",
   "devDependencies": {
-    "ava": "^0.14.0",
+    "ava": "^0.17.0",
     "xo": "^0.14.0"
   },
   "dependencies": {
