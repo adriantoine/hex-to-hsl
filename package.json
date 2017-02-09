@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "hex-to-rgb": "^1.0.1",
-    "rgb-to-hsl": "0.0.2"
+    "rgb-to-hsl": "0.0.3"
   },
   "directories": {
     "test": "test"
