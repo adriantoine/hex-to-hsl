@@ -26,11 +26,11 @@
   "license": "ISC",
   "devDependencies": {
     "ava": "^0.18.1",
-    "xo": "^0.14.0"
+    "xo": "~0.17.1"
   },
   "dependencies": {
     "hex-to-rgb": "^1.0.1",
-    "rgb-to-hsl": "0.0.2"
+    "rgb-to-hsl": "~0.0.3"
   },
   "directories": {
     "test": "test"
